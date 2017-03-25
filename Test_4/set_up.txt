@@ -1,6 +1,2 @@
 this file suppose to contain  setup for the project.
-<<<<<<< Updated upstream
-This file requires "credentails.txt"
-=======
 As this set up requires "credentials.txt", which needs to be updated. But that has to be ignored bbmentioning it in ".gitignore"
->>>>>>> Stashed changes
